@@ -65,7 +65,7 @@ Monthly sales performance visualization
 
 ---
 
-🛠 Tools & Techniques Used
+ Tools & Techniques Used
 
 Microsoft Excel
 
@@ -103,7 +103,7 @@ Sales trends helped identify high-performing periods.
 
 ---
 
-📂 Files Included
+ Files Included
 
 Raw Dataset
 
